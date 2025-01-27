@@ -42,7 +42,6 @@ struct ContentView: View {
 //        print(photoNumber) do not show on content view only in console
                 
             }
-            
             .buttonStyle(.borderedProminent)
             .font(.title2)
         }
